@@ -6,9 +6,9 @@ import Footer from '../../components/footer'
 
 // Map years to FlipHTML5 URLs
 const yearbookUrls: Record<number, string> = {
-  2025: 'https://online.fliphtml5.com/ufqib/bcca/',
-  2024: 'https://online.fliphtml5.com/ufqib/dgae/',
-  2023: 'https://online.fliphtml5.com/ufqib/tcbv/',
+  2025: 'https://online.fliphtml5.com/ufqib/2025/',
+  2024: 'https://online.fliphtml5.com/ufqib/2024/',
+  2023: 'https://online.fliphtml5.com/ufqib/2023/',
   // Add more years and their URLs here
 }
 
